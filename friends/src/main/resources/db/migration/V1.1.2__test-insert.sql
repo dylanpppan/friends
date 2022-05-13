@@ -1,0 +1,1 @@
+INSERT INTO friends VALUES ('123', 'INIT', 'Inserted by FLYWAY', '123', 'INIT', 'Inserted by FLYWAY');
